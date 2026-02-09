@@ -45,7 +45,7 @@ Gagged Happy Ghasts display a 3D ball gag overlay with straps wrapped around the
         gameVersion: "1.21.10",
         modVersion: "1.0",
         fileName: "gagorder-1.21.10-1.0",
-        downloadUrl: "#",
+        downloadUrl: "https://deez125.github.io/dangus-mods/downloads/gagorder-1.21.10-1.0.jar",
         date: "Feb 8, 2026",
         changelog: [
           "Initial release of Gag Order for Minecraft 1.21.10"
@@ -55,7 +55,7 @@ Gagged Happy Ghasts display a 3D ball gag overlay with straps wrapped around the
         gameVersion: "1.21.11",
         modVersion: "1.0",
         fileName: "gagorder-1.21.11-1.0",
-        downloadUrl: "#",
+        downloadUrl: "https://deez125.github.io/dangus-mods/downloads/gagorder-1.21.11-1.0.jar",
         date: "Feb 8, 2026",
         changelog: [
           "Initial release of Gag Order for Minecraft 1.21.11"
