@@ -1618,10 +1618,7 @@ export default function App() {
         </main>
 
         <footer className="footer">
-          {SITE_NAME} · Not an official Minecraft service. Not approved by or associated with Mojang or Microsoft. ·{" "}
-          <a href="https://github.com" target="_blank" rel="noopener">
-            GitHub
-          </a>
+          {SITE_NAME} · Not an official Minecraft service. Not approved by or associated with Mojang or Microsoft.
         </footer>
       </div>
     </>
